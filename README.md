@@ -2,6 +2,13 @@
 
 This is a simple movie filtering web app built using React.js and class components. The app allows users to browse and filter a list of movie.
 
+
+## Live Preview
+
+You can access the live preview of this website at the following URL:
+[Movie Filtering Website Live Preview](https://basic-movie-filtering.vercel.app/)
+
+
 ## Features
 
 - Browse a list of movies.

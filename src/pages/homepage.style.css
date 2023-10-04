@@ -1,0 +1,32 @@
+.title__wrapper{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title{
+  text-align: center;
+  font-size: clamp(2.5rem, 2vw, 4rem);
+  -webkit-text-stroke: 2px rgba(22, 22, 22, 0.781);
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  margin-block: 10px;
+  font-weight: bolder;
+  letter-spacing: 2px;
+  cursor: pointer;
+}
+
+.card__list{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  min-height: 100vh;
+}
+
+@media (max-width: 368px){
+  .title__wrapper{
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+}
+

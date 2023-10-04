@@ -21,7 +21,7 @@ To run this app locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/basic-movie-filtering-app.git
+   git clone https://github.com/Dina-petrick/Basic-movie-filtering.git
 
 2. cd basic-movie-filtering-app
 
